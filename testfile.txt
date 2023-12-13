@@ -1,3 +1,0 @@
-test 1
-file name is testfile.txt
-this is testfile1
